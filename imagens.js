@@ -1,0 +1,1 @@
+const DISH_IMAGES = {};
