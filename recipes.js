@@ -12,8 +12,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=1"
   },
   {
     "id": 2,
@@ -28,8 +36,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=2"
   },
   {
     "id": 3,
@@ -44,8 +60,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=3"
   },
   {
     "id": 4,
@@ -60,8 +84,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=4"
   },
   {
     "id": 5,
@@ -76,8 +108,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=5"
   },
   {
     "id": 6,
@@ -92,8 +132,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=6"
   },
   {
     "id": 7,
@@ -108,8 +156,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=7"
   },
   {
     "id": 8,
@@ -124,8 +180,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=8"
   },
   {
     "id": 9,
@@ -140,8 +204,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=9"
   },
   {
     "id": 10,
@@ -156,8 +228,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=10"
   },
   {
     "id": 11,
@@ -172,8 +252,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=11"
   },
   {
     "id": 12,
@@ -188,8 +276,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=12"
   },
   {
     "id": 13,
@@ -204,8 +300,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=13"
   },
   {
     "id": 14,
@@ -220,8 +324,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=14"
   },
   {
     "id": 15,
@@ -236,8 +348,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=15"
   },
   {
     "id": 16,
@@ -252,8 +372,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=16"
   },
   {
     "id": 17,
@@ -268,8 +396,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=17"
   },
   {
     "id": 18,
@@ -284,8 +420,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=18"
   },
   {
     "id": 19,
@@ -300,8 +444,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=19"
   },
   {
     "id": 20,
@@ -316,8 +468,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=20"
   },
   {
     "id": 21,
@@ -332,8 +492,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=21"
   },
   {
     "id": 22,
@@ -348,8 +516,16 @@ const RECIPES = [
       "4 colheres de aveia",
       "1 colher de chá de canela"
     ],
-    "steps": "Amasse as bananas, misture os ovos, a aveia e a canela. Doure pequenas porções em frigideira antiaderente.",
-    "favorite": false
+    "steps": [
+      "Comece amassando as bananas em uma tigela até obter um purê uniforme.",
+      "Adicione os ovos, a aveia e a canela e misture bem até formar uma massa homogênea.",
+      "Aqueça uma frigideira antiaderente em fogo baixo a médio e, se necessário, unte levemente.",
+      "Coloque pequenas porções da massa e cozinhe até as bordas firmarem e o fundo dourar.",
+      "Vire com cuidado e deixe o outro lado dourar por mais alguns instantes.",
+      "Retire da frigideira e sirva ainda morna, com o acompanhamento de sua preferência."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Panqueca,de,banana?lock=22"
   },
   {
     "id": 23,
@@ -364,8 +540,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=23"
   },
   {
     "id": 24,
@@ -380,8 +564,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=24"
   },
   {
     "id": 25,
@@ -396,8 +588,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=25"
   },
   {
     "id": 26,
@@ -412,8 +612,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=26"
   },
   {
     "id": 27,
@@ -428,8 +636,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=27"
   },
   {
     "id": 28,
@@ -444,8 +660,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=28"
   },
   {
     "id": 29,
@@ -460,8 +684,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=29"
   },
   {
     "id": 30,
@@ -476,8 +708,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=30"
   },
   {
     "id": 31,
@@ -492,8 +732,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=31"
   },
   {
     "id": 32,
@@ -508,8 +756,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=32"
   },
   {
     "id": 33,
@@ -524,8 +780,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=33"
   },
   {
     "id": 34,
@@ -540,8 +804,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=34"
   },
   {
     "id": 35,
@@ -556,8 +828,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=35"
   },
   {
     "id": 36,
@@ -572,8 +852,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=36"
   },
   {
     "id": 37,
@@ -588,8 +876,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=37"
   },
   {
     "id": 38,
@@ -604,8 +900,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=38"
   },
   {
     "id": 39,
@@ -620,8 +924,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=39"
   },
   {
     "id": 40,
@@ -636,8 +948,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=40"
   },
   {
     "id": 41,
@@ -652,8 +972,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=41"
   },
   {
     "id": 42,
@@ -668,8 +996,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=42"
   },
   {
     "id": 43,
@@ -684,8 +1020,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=43"
   },
   {
     "id": 44,
@@ -700,8 +1044,16 @@ const RECIPES = [
       "1 colher de sopa de queijo ralado",
       "1 colher de sopa de tomate picado"
     ],
-    "steps": "Bata os ovos, misture os ingredientes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Quebre os ovos em uma tigela e bata com um garfo até as claras e gemas ficarem bem misturadas.",
+      "Acrescente os demais ingredientes e tempere de acordo com a lista de ingredientes.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a mistura e espalhe para formar uma camada uniforme.",
+      "Cozinhe até a parte de baixo firmar e as bordas começarem a soltar da frigideira.",
+      "Dobre ou vire a omelete com cuidado e cozinhe até ficar completamente firme. Sirva em seguida."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,simples?lock=44"
   },
   {
     "id": 45,
@@ -715,8 +1067,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=45"
   },
   {
     "id": 46,
@@ -730,8 +1090,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=46"
   },
   {
     "id": 47,
@@ -745,8 +1113,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=47"
   },
   {
     "id": 48,
@@ -760,8 +1136,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=48"
   },
   {
     "id": 49,
@@ -775,8 +1159,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=49"
   },
   {
     "id": 50,
@@ -790,8 +1182,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=50"
   },
   {
     "id": 51,
@@ -805,8 +1205,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=51"
   },
   {
     "id": 52,
@@ -820,8 +1228,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=52"
   },
   {
     "id": 53,
@@ -835,8 +1251,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=53"
   },
   {
     "id": 54,
@@ -850,8 +1274,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=54"
   },
   {
     "id": 55,
@@ -865,8 +1297,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=55"
   },
   {
     "id": 56,
@@ -880,8 +1320,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=56"
   },
   {
     "id": 57,
@@ -895,8 +1343,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=57"
   },
   {
     "id": 58,
@@ -910,8 +1366,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=58"
   },
   {
     "id": 59,
@@ -925,8 +1389,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=59"
   },
   {
     "id": 60,
@@ -940,8 +1412,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=60"
   },
   {
     "id": 61,
@@ -955,8 +1435,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=61"
   },
   {
     "id": 62,
@@ -970,8 +1458,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=62"
   },
   {
     "id": 63,
@@ -985,8 +1481,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=63"
   },
   {
     "id": 64,
@@ -1000,8 +1504,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=64"
   },
   {
     "id": 65,
@@ -1015,8 +1527,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=65"
   },
   {
     "id": 66,
@@ -1030,8 +1550,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "sal a gosto"
     ],
-    "steps": "Espalhe a goma em frigideira quente, aqueça dos dois lados, recheie com queijo e dobre.",
-    "favorite": false
+    "steps": [
+      "Aqueça uma frigideira antiaderente em fogo médio por alguns segundos.",
+      "Peneire ou espalhe a goma de tapioca diretamente na frigideira, formando uma camada uniforme.",
+      "Pressione levemente a goma e deixe cozinhar até os grãos se unirem e a massa ficar firme.",
+      "Vire ou mantenha a tapioca na mesma posição, conforme a textura desejada.",
+      "Coloque o queijo sobre metade da tapioca e tempere, se indicado nos ingredientes.",
+      "Dobre a tapioca ao meio e deixe mais alguns segundos no fogo para o queijo aquecer. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Tapioca,com,queijo?lock=66"
   },
   {
     "id": 67,
@@ -1046,8 +1574,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=67"
   },
   {
     "id": 68,
@@ -1062,8 +1598,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=68"
   },
   {
     "id": 69,
@@ -1078,8 +1622,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=69"
   },
   {
     "id": 70,
@@ -1094,8 +1646,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=70"
   },
   {
     "id": 71,
@@ -1110,8 +1670,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=71"
   },
   {
     "id": 72,
@@ -1126,8 +1694,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=72"
   },
   {
     "id": 73,
@@ -1142,8 +1718,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=73"
   },
   {
     "id": 74,
@@ -1158,8 +1742,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=74"
   },
   {
     "id": 75,
@@ -1174,8 +1766,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=75"
   },
   {
     "id": 76,
@@ -1190,8 +1790,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=76"
   },
   {
     "id": 77,
@@ -1206,8 +1814,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=77"
   },
   {
     "id": 78,
@@ -1222,8 +1838,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=78"
   },
   {
     "id": 79,
@@ -1238,8 +1862,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=79"
   },
   {
     "id": 80,
@@ -1254,8 +1886,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=80"
   },
   {
     "id": 81,
@@ -1270,8 +1910,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=81"
   },
   {
     "id": 82,
@@ -1286,8 +1934,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=82"
   },
   {
     "id": 83,
@@ -1302,8 +1958,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=83"
   },
   {
     "id": 84,
@@ -1318,8 +1982,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=84"
   },
   {
     "id": 85,
@@ -1334,8 +2006,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=85"
   },
   {
     "id": 86,
@@ -1350,8 +2030,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=86"
   },
   {
     "id": 87,
@@ -1366,8 +2054,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=87"
   },
   {
     "id": 88,
@@ -1382,8 +2078,16 @@ const RECIPES = [
       "1 colher de sopa de iogurte",
       "1/2 colher de chá de fermento"
     ],
-    "steps": "Misture tudo, coloque em frigideira untada e cozinhe em fogo baixo dos dois lados.",
-    "favorite": false
+    "steps": [
+      "Coloque todos os ingredientes em uma tigela e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Deixe a massa descansar por cerca de 1 minuto enquanto aquece a frigideira.",
+      "Unte levemente uma frigideira antiaderente e aqueça em fogo baixo.",
+      "Despeje a massa, espalhe de maneira uniforme e tampe a frigideira.",
+      "Cozinhe até a parte de baixo dourar e a superfície ficar mais firme.",
+      "Vire com cuidado e cozinhe o outro lado até dourar. Retire e sirva ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/P%C3%A3o,de,frigideira?lock=88"
   },
   {
     "id": 89,
@@ -1398,8 +2102,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=89"
   },
   {
     "id": 90,
@@ -1414,8 +2126,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=90"
   },
   {
     "id": 91,
@@ -1430,8 +2150,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=91"
   },
   {
     "id": 92,
@@ -1446,8 +2174,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=92"
   },
   {
     "id": 93,
@@ -1462,8 +2198,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=93"
   },
   {
     "id": 94,
@@ -1478,8 +2222,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=94"
   },
   {
     "id": 95,
@@ -1494,8 +2246,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=95"
   },
   {
     "id": 96,
@@ -1510,8 +2270,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=96"
   },
   {
     "id": 97,
@@ -1526,8 +2294,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=97"
   },
   {
     "id": 98,
@@ -1542,8 +2318,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=98"
   },
   {
     "id": 99,
@@ -1558,8 +2342,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=99"
   },
   {
     "id": 100,
@@ -1574,8 +2366,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=100"
   },
   {
     "id": 101,
@@ -1590,8 +2390,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=101"
   },
   {
     "id": 102,
@@ -1606,8 +2414,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=102"
   },
   {
     "id": 103,
@@ -1622,8 +2438,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=103"
   },
   {
     "id": 104,
@@ -1638,8 +2462,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=104"
   },
   {
     "id": 105,
@@ -1654,8 +2486,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=105"
   },
   {
     "id": 106,
@@ -1670,8 +2510,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=106"
   },
   {
     "id": 107,
@@ -1686,8 +2534,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=107"
   },
   {
     "id": 108,
@@ -1702,8 +2558,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=108"
   },
   {
     "id": 109,
@@ -1718,8 +2582,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=109"
   },
   {
     "id": 110,
@@ -1734,8 +2606,16 @@ const RECIPES = [
       "1 banana",
       "canela a gosto"
     ],
-    "steps": "Leve o leite e a aveia ao fogo, mexendo até engrossar. Finalize com banana e canela.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite e a aveia em uma panela pequena e misture antes de levar ao fogo.",
+      "Leve ao fogo baixo, mexendo continuamente para evitar que a mistura grude no fundo.",
+      "Continue mexendo até a aveia hidratar e o mingau começar a engrossar.",
+      "Cozinhe por mais alguns minutos, ajustando a textura com um pouco de leite se necessário.",
+      "Desligue o fogo quando estiver cremoso e acrescente a banana e a canela conforme os ingredientes.",
+      "Misture delicadamente e sirva imediatamente, de preferência ainda quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mingau,de,aveia?lock=110"
   },
   {
     "id": 111,
@@ -1750,8 +2630,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=111"
   },
   {
     "id": 112,
@@ -1766,8 +2654,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=112"
   },
   {
     "id": 113,
@@ -1782,8 +2678,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=113"
   },
   {
     "id": 114,
@@ -1798,8 +2702,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=114"
   },
   {
     "id": 115,
@@ -1814,8 +2726,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=115"
   },
   {
     "id": 116,
@@ -1830,8 +2750,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=116"
   },
   {
     "id": 117,
@@ -1846,8 +2774,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=117"
   },
   {
     "id": 118,
@@ -1862,8 +2798,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=118"
   },
   {
     "id": 119,
@@ -1878,8 +2822,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=119"
   },
   {
     "id": 120,
@@ -1894,8 +2846,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=120"
   },
   {
     "id": 121,
@@ -1910,8 +2870,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=121"
   },
   {
     "id": 122,
@@ -1926,8 +2894,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=122"
   },
   {
     "id": 123,
@@ -1942,8 +2918,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=123"
   },
   {
     "id": 124,
@@ -1958,8 +2942,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=124"
   },
   {
     "id": 125,
@@ -1974,8 +2966,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=125"
   },
   {
     "id": 126,
@@ -1990,8 +2990,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=126"
   },
   {
     "id": 127,
@@ -2006,8 +3014,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=127"
   },
   {
     "id": 128,
@@ -2022,8 +3038,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=128"
   },
   {
     "id": 129,
@@ -2038,8 +3062,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=129"
   },
   {
     "id": 130,
@@ -2054,8 +3086,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=130"
   },
   {
     "id": 131,
@@ -2070,8 +3110,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=131"
   },
   {
     "id": 132,
@@ -2086,8 +3134,16 @@ const RECIPES = [
       "2 colheres de sopa de creme de leite",
       "sal e pimenta"
     ],
-    "steps": "Doure o frango com a cebola. Tempere, desligue o fogo e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Prepare o frango cortando-o em pedaços uniformes e separe os demais ingredientes.",
+      "Aqueça uma panela ou frigideira e doure o frango aos poucos, evitando juntar muito líquido.",
+      "Acrescente a cebola e refogue até ela ficar macia e levemente dourada.",
+      "Tempere conforme os ingredientes e cozinhe até o frango estar completamente cozido.",
+      "Desligue ou reduza o fogo e incorpore o creme de leite, mexendo até formar um molho cremoso.",
+      "Aqueça por mais um instante sem deixar ferver intensamente e sirva com o acompanhamento desejado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Frango,cremoso?lock=132"
   },
   {
     "id": 133,
@@ -2103,8 +3159,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=133"
   },
   {
     "id": 134,
@@ -2120,8 +3184,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=134"
   },
   {
     "id": 135,
@@ -2137,8 +3209,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=135"
   },
   {
     "id": 136,
@@ -2154,8 +3234,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=136"
   },
   {
     "id": 137,
@@ -2171,8 +3259,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=137"
   },
   {
     "id": 138,
@@ -2188,8 +3284,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=138"
   },
   {
     "id": 139,
@@ -2205,8 +3309,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=139"
   },
   {
     "id": 140,
@@ -2222,8 +3334,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=140"
   },
   {
     "id": 141,
@@ -2239,8 +3359,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=141"
   },
   {
     "id": 142,
@@ -2256,8 +3384,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=142"
   },
   {
     "id": 143,
@@ -2273,8 +3409,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=143"
   },
   {
     "id": 144,
@@ -2290,8 +3434,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=144"
   },
   {
     "id": 145,
@@ -2307,8 +3459,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=145"
   },
   {
     "id": 146,
@@ -2324,8 +3484,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=146"
   },
   {
     "id": 147,
@@ -2341,8 +3509,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=147"
   },
   {
     "id": 148,
@@ -2358,8 +3534,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=148"
   },
   {
     "id": 149,
@@ -2375,8 +3559,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=149"
   },
   {
     "id": 150,
@@ -2392,8 +3584,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=150"
   },
   {
     "id": 151,
@@ -2409,8 +3609,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=151"
   },
   {
     "id": 152,
@@ -2426,8 +3634,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=152"
   },
   {
     "id": 153,
@@ -2443,8 +3659,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=153"
   },
   {
     "id": 154,
@@ -2460,8 +3684,16 @@ const RECIPES = [
       "100 g de queijo",
       "molho de tomate"
     ],
-    "steps": "Misture arroz, frango, milho e molho. Cubra com queijo e leve ao forno até gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe uma travessa levemente untada preparada.",
+      "Coloque o arroz cozido em uma tigela e misture o frango, o milho e o molho até distribuir os ingredientes.",
+      "Prove e ajuste o tempero antes de transferir a mistura para a travessa.",
+      "Espalhe o arroz de maneira uniforme e cubra toda a superfície com o queijo.",
+      "Leve ao forno preaquecido até o queijo derreter e começar a dourar, aproximadamente 15 a 20 minutos.",
+      "Retire com cuidado, espere alguns minutos para firmar e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,de,forno?lock=154"
   },
   {
     "id": 155,
@@ -2476,8 +3708,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=155"
   },
   {
     "id": 156,
@@ -2492,8 +3732,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=156"
   },
   {
     "id": 157,
@@ -2508,8 +3756,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=157"
   },
   {
     "id": 158,
@@ -2524,8 +3780,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=158"
   },
   {
     "id": 159,
@@ -2540,8 +3804,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=159"
   },
   {
     "id": 160,
@@ -2556,8 +3828,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=160"
   },
   {
     "id": 161,
@@ -2572,8 +3852,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=161"
   },
   {
     "id": 162,
@@ -2588,8 +3876,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=162"
   },
   {
     "id": 163,
@@ -2604,8 +3900,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=163"
   },
   {
     "id": 164,
@@ -2620,8 +3924,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=164"
   },
   {
     "id": 165,
@@ -2636,8 +3948,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=165"
   },
   {
     "id": 166,
@@ -2652,8 +3972,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=166"
   },
   {
     "id": 167,
@@ -2668,8 +3996,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=167"
   },
   {
     "id": 168,
@@ -2684,8 +4020,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=168"
   },
   {
     "id": 169,
@@ -2700,8 +4044,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=169"
   },
   {
     "id": 170,
@@ -2716,8 +4068,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=170"
   },
   {
     "id": 171,
@@ -2732,8 +4092,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=171"
   },
   {
     "id": 172,
@@ -2748,8 +4116,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=172"
   },
   {
     "id": 173,
@@ -2764,8 +4140,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=173"
   },
   {
     "id": 174,
@@ -2780,8 +4164,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=174"
   },
   {
     "id": 175,
@@ -2796,8 +4188,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=175"
   },
   {
     "id": 176,
@@ -2812,8 +4212,16 @@ const RECIPES = [
       "3 colheres de sopa de óleo",
       "sal e cheiro-verde"
     ],
-    "steps": "Cozinhe o macarrão. Doure o alho no óleo, misture o macarrão e finalize com cheiro-verde.",
-    "favorite": false
+    "steps": [
+      "Coloque água suficiente em uma panela, tempere com sal e leve ao fogo até ferver.",
+      "Cozinhe o macarrão pelo tempo indicado na embalagem, deixando-o al dente.",
+      "Enquanto isso, aqueça o óleo em uma frigideira e doure o alho em fogo baixo para evitar que queime.",
+      "Escorra o macarrão, reservando um pouco da água do cozimento, se necessário.",
+      "Junte o macarrão ao alho e óleo e misture bem para envolver toda a massa.",
+      "Finalize com cheiro-verde e, se precisar, algumas colheres da água reservada para deixar a massa mais úmida. Sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,alho,e,%C3%B3leo?lock=176"
   },
   {
     "id": 177,
@@ -2829,8 +4237,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=177"
   },
   {
     "id": 178,
@@ -2846,8 +4262,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=178"
   },
   {
     "id": 179,
@@ -2863,8 +4287,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=179"
   },
   {
     "id": 180,
@@ -2880,8 +4312,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=180"
   },
   {
     "id": 181,
@@ -2897,8 +4337,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=181"
   },
   {
     "id": 182,
@@ -2914,8 +4362,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=182"
   },
   {
     "id": 183,
@@ -2931,8 +4387,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=183"
   },
   {
     "id": 184,
@@ -2948,8 +4412,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=184"
   },
   {
     "id": 185,
@@ -2965,8 +4437,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=185"
   },
   {
     "id": 186,
@@ -2982,8 +4462,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=186"
   },
   {
     "id": 187,
@@ -2999,8 +4487,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=187"
   },
   {
     "id": 188,
@@ -3016,8 +4512,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=188"
   },
   {
     "id": 189,
@@ -3033,8 +4537,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=189"
   },
   {
     "id": 190,
@@ -3050,8 +4562,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=190"
   },
   {
     "id": 191,
@@ -3067,8 +4587,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=191"
   },
   {
     "id": 192,
@@ -3084,8 +4612,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=192"
   },
   {
     "id": 193,
@@ -3101,8 +4637,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=193"
   },
   {
     "id": 194,
@@ -3118,8 +4662,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=194"
   },
   {
     "id": 195,
@@ -3135,8 +4687,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=195"
   },
   {
     "id": 196,
@@ -3152,8 +4712,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=196"
   },
   {
     "id": 197,
@@ -3169,8 +4737,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=197"
   },
   {
     "id": 198,
@@ -3186,8 +4762,16 @@ const RECIPES = [
       "2 colheres de ketchup",
       "200 g de creme de leite"
     ],
-    "steps": "Doure o frango e a cebola. Acrescente os molhos, cozinhe por alguns minutos e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Corte o frango em cubos ou tiras de tamanho semelhante e separe os ingredientes.",
+      "Aqueça uma panela e doure o frango em fogo médio, mexendo para cozinhar por igual.",
+      "Acrescente a cebola e refogue até ficar macia e levemente transparente.",
+      "Adicione o molho de tomate e o ketchup e misture bem, deixando cozinhar por alguns minutos.",
+      "Reduza o fogo e acrescente o creme de leite, mexendo até o molho ficar uniforme e cremoso.",
+      "Evite deixar ferver por muito tempo após adicionar o creme. Ajuste o tempero e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Strogonoff,de,frango?lock=198"
   },
   {
     "id": 199,
@@ -3203,8 +4787,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=199"
   },
   {
     "id": 200,
@@ -3220,8 +4812,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=200"
   },
   {
     "id": 201,
@@ -3237,8 +4837,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=201"
   },
   {
     "id": 202,
@@ -3254,8 +4862,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=202"
   },
   {
     "id": 203,
@@ -3271,8 +4887,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=203"
   },
   {
     "id": 204,
@@ -3288,8 +4912,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=204"
   },
   {
     "id": 205,
@@ -3305,8 +4937,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=205"
   },
   {
     "id": 206,
@@ -3322,8 +4962,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=206"
   },
   {
     "id": 207,
@@ -3339,8 +4987,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=207"
   },
   {
     "id": 208,
@@ -3356,8 +5012,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=208"
   },
   {
     "id": 209,
@@ -3373,8 +5037,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=209"
   },
   {
     "id": 210,
@@ -3390,8 +5062,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=210"
   },
   {
     "id": 211,
@@ -3407,8 +5087,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=211"
   },
   {
     "id": 212,
@@ -3424,8 +5112,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=212"
   },
   {
     "id": 213,
@@ -3441,8 +5137,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=213"
   },
   {
     "id": 214,
@@ -3458,8 +5162,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=214"
   },
   {
     "id": 215,
@@ -3475,8 +5187,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=215"
   },
   {
     "id": 216,
@@ -3492,8 +5212,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=216"
   },
   {
     "id": 217,
@@ -3509,8 +5237,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=217"
   },
   {
     "id": 218,
@@ -3526,8 +5262,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=218"
   },
   {
     "id": 219,
@@ -3543,8 +5287,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=219"
   },
   {
     "id": 220,
@@ -3560,8 +5312,16 @@ const RECIPES = [
       "100 g de queijo",
       "sal a gosto"
     ],
-    "steps": "Prepare o purê de batata. Refogue a carne com cebola. Monte camadas, cubra com queijo e gratine.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem bem macias e, enquanto isso, prepare o recheio.",
+      "Amasse as batatas ainda quentes até formar um purê e ajuste a textura conforme os ingredientes disponíveis.",
+      "Refogue a cebola, acrescente a carne moída e cozinhe até ficar bem dourada e completamente cozida.",
+      "Tempere a carne e deixe o excesso de líquido evaporar para evitar um recheio muito aguado.",
+      "Em uma travessa, faça uma camada de purê, espalhe o recheio de carne e cubra com o restante do purê.",
+      "Finalize com o queijo e leve ao forno para gratinar. Retire quando estiver dourado e sirva após alguns minutos de descanso."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Escondidinho,de,carne?lock=220"
   },
   {
     "id": 221,
@@ -3578,8 +5338,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=221"
   },
   {
     "id": 222,
@@ -3596,8 +5364,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=222"
   },
   {
     "id": 223,
@@ -3614,8 +5390,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=223"
   },
   {
     "id": 224,
@@ -3632,8 +5416,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=224"
   },
   {
     "id": 225,
@@ -3650,8 +5442,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=225"
   },
   {
     "id": 226,
@@ -3668,8 +5468,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=226"
   },
   {
     "id": 227,
@@ -3686,8 +5494,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=227"
   },
   {
     "id": 228,
@@ -3704,8 +5520,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=228"
   },
   {
     "id": 229,
@@ -3722,8 +5546,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=229"
   },
   {
     "id": 230,
@@ -3740,8 +5572,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=230"
   },
   {
     "id": 231,
@@ -3758,8 +5598,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=231"
   },
   {
     "id": 232,
@@ -3776,8 +5624,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=232"
   },
   {
     "id": 233,
@@ -3794,8 +5650,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=233"
   },
   {
     "id": 234,
@@ -3812,8 +5676,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=234"
   },
   {
     "id": 235,
@@ -3830,8 +5702,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=235"
   },
   {
     "id": 236,
@@ -3848,8 +5728,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=236"
   },
   {
     "id": 237,
@@ -3866,8 +5754,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=237"
   },
   {
     "id": 238,
@@ -3884,8 +5780,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=238"
   },
   {
     "id": 239,
@@ -3902,8 +5806,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=239"
   },
   {
     "id": 240,
@@ -3920,8 +5832,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=240"
   },
   {
     "id": 241,
@@ -3938,8 +5858,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=241"
   },
   {
     "id": 242,
@@ -3956,8 +5884,16 @@ const RECIPES = [
       "1 litro de água",
       "sal"
     ],
-    "steps": "Corte os legumes, refogue a cebola, cubra com água e cozinhe até ficarem macios.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços de tamanho parecido para que cozinhem por igual.",
+      "Aqueça uma panela e refogue a cebola até ficar macia e levemente dourada.",
+      "Acrescente os legumes e misture por alguns minutos para incorporar o sabor do refogado.",
+      "Cubra com água e tempere conforme os ingredientes. Tampe parcialmente a panela.",
+      "Cozinhe em fogo médio até os legumes ficarem macios, verificando o nível de água durante o preparo.",
+      "Ajuste o sal e a consistência, desligue o fogo e sirva a sopa bem quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Sopa,de,legumes?lock=242"
   },
   {
     "id": 243,
@@ -3972,8 +5908,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=243"
   },
   {
     "id": 244,
@@ -3988,8 +5932,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=244"
   },
   {
     "id": 245,
@@ -4004,8 +5956,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=245"
   },
   {
     "id": 246,
@@ -4020,8 +5980,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=246"
   },
   {
     "id": 247,
@@ -4036,8 +6004,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=247"
   },
   {
     "id": 248,
@@ -4052,8 +6028,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=248"
   },
   {
     "id": 249,
@@ -4068,8 +6052,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=249"
   },
   {
     "id": 250,
@@ -4084,8 +6076,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=250"
   },
   {
     "id": 251,
@@ -4100,8 +6100,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=251"
   },
   {
     "id": 252,
@@ -4116,8 +6124,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=252"
   },
   {
     "id": 253,
@@ -4132,8 +6148,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=253"
   },
   {
     "id": 254,
@@ -4148,8 +6172,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=254"
   },
   {
     "id": 255,
@@ -4164,8 +6196,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=255"
   },
   {
     "id": 256,
@@ -4180,8 +6220,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=256"
   },
   {
     "id": 257,
@@ -4196,8 +6244,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=257"
   },
   {
     "id": 258,
@@ -4212,8 +6268,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=258"
   },
   {
     "id": 259,
@@ -4228,8 +6292,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=259"
   },
   {
     "id": 260,
@@ -4244,8 +6316,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=260"
   },
   {
     "id": 261,
@@ -4260,8 +6340,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=261"
   },
   {
     "id": 262,
@@ -4276,8 +6364,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=262"
   },
   {
     "id": 263,
@@ -4292,8 +6388,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=263"
   },
   {
     "id": 264,
@@ -4308,8 +6412,16 @@ const RECIPES = [
       "2 fatias de queijo",
       "tomate"
     ],
-    "steps": "Misture ovo e tapioca. Cozinhe em frigideira, recheie e dobre.",
-    "favorite": false
+    "steps": [
+      "Misture o ovo e a tapioca em uma tigela até obter uma massa uniforme.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente, se necessário.",
+      "Despeje a massa e espalhe para formar um disco de espessura uniforme.",
+      "Cozinhe até a parte inferior firmar e as bordas começarem a soltar.",
+      "Coloque o recheio escolhido sobre metade da massa, distribuindo sem exagerar na quantidade.",
+      "Dobre a crepioca ao meio e deixe mais alguns instantes no fogo para aquecer o recheio. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Crepioca,recheada?lock=264"
   },
   {
     "id": 265,
@@ -4325,8 +6437,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=265"
   },
   {
     "id": 266,
@@ -4342,8 +6462,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=266"
   },
   {
     "id": 267,
@@ -4359,8 +6487,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=267"
   },
   {
     "id": 268,
@@ -4376,8 +6512,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=268"
   },
   {
     "id": 269,
@@ -4393,8 +6537,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=269"
   },
   {
     "id": 270,
@@ -4410,8 +6562,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=270"
   },
   {
     "id": 271,
@@ -4427,8 +6587,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=271"
   },
   {
     "id": 272,
@@ -4444,8 +6612,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=272"
   },
   {
     "id": 273,
@@ -4461,8 +6637,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=273"
   },
   {
     "id": 274,
@@ -4478,8 +6662,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=274"
   },
   {
     "id": 275,
@@ -4495,8 +6687,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=275"
   },
   {
     "id": 276,
@@ -4512,8 +6712,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=276"
   },
   {
     "id": 277,
@@ -4529,8 +6737,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=277"
   },
   {
     "id": 278,
@@ -4546,8 +6762,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=278"
   },
   {
     "id": 279,
@@ -4563,8 +6787,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=279"
   },
   {
     "id": 280,
@@ -4580,8 +6812,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=280"
   },
   {
     "id": 281,
@@ -4597,8 +6837,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=281"
   },
   {
     "id": 282,
@@ -4614,8 +6862,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=282"
   },
   {
     "id": 283,
@@ -4631,8 +6887,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=283"
   },
   {
     "id": 284,
@@ -4648,8 +6912,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=284"
   },
   {
     "id": 285,
@@ -4665,8 +6937,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=285"
   },
   {
     "id": 286,
@@ -4682,8 +6962,16 @@ const RECIPES = [
       "1/2 cebola",
       "1 litro de água"
     ],
-    "steps": "Cozinhe o frango e os legumes. Desfie o frango, ajuste o tempero e sirva quente.",
-    "favorite": false
+    "steps": [
+      "Coloque o frango e os legumes em uma panela e cubra com água suficiente.",
+      "Leve ao fogo médio e cozinhe até o frango ficar completamente cozido e os legumes macios.",
+      "Retire o frango, deixe amornar e desfie em pedaços pequenos.",
+      "Retorne o frango desfiado à panela e misture com o caldo e os legumes.",
+      "Ajuste o sal e os demais temperos e deixe cozinhar por mais alguns minutos para integrar os sabores.",
+      "Desligue o fogo e sirva o caldo bem quente, cuidando para não se queimar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Caldo,de,frango?lock=286"
   },
   {
     "id": 287,
@@ -4699,8 +6987,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=287"
   },
   {
     "id": 288,
@@ -4716,8 +7012,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=288"
   },
   {
     "id": 289,
@@ -4733,8 +7037,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=289"
   },
   {
     "id": 290,
@@ -4750,8 +7062,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=290"
   },
   {
     "id": 291,
@@ -4767,8 +7087,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=291"
   },
   {
     "id": 292,
@@ -4784,8 +7112,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=292"
   },
   {
     "id": 293,
@@ -4801,8 +7137,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=293"
   },
   {
     "id": 294,
@@ -4818,8 +7162,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=294"
   },
   {
     "id": 295,
@@ -4835,8 +7187,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=295"
   },
   {
     "id": 296,
@@ -4852,8 +7212,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=296"
   },
   {
     "id": 297,
@@ -4869,8 +7237,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=297"
   },
   {
     "id": 298,
@@ -4886,8 +7262,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=298"
   },
   {
     "id": 299,
@@ -4903,8 +7287,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=299"
   },
   {
     "id": 300,
@@ -4920,8 +7312,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=300"
   },
   {
     "id": 301,
@@ -4937,8 +7337,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=301"
   },
   {
     "id": 302,
@@ -4954,8 +7362,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=302"
   },
   {
     "id": 303,
@@ -4971,8 +7387,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=303"
   },
   {
     "id": 304,
@@ -4988,8 +7412,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=304"
   },
   {
     "id": 305,
@@ -5005,8 +7437,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=305"
   },
   {
     "id": 306,
@@ -5022,8 +7462,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=306"
   },
   {
     "id": 307,
@@ -5039,8 +7487,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=307"
   },
   {
     "id": 308,
@@ -5056,8 +7512,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Refogue a cebola e os legumes, acrescente o arroz e misture até aquecer.",
-    "favorite": false
+    "steps": [
+      "Lave e corte os legumes em pedaços pequenos e deixe todos os ingredientes separados.",
+      "Aqueça uma panela e refogue a cebola até ficar macia.",
+      "Acrescente os legumes e refogue por alguns minutos, mexendo para cozinhar por igual.",
+      "Junte o arroz e misture cuidadosamente para distribuir os legumes sem quebrar os grãos.",
+      "Aqueça tudo até o arroz ficar bem quente e os legumes atingirem a textura desejada.",
+      "Ajuste o tempero, desligue o fogo e sirva como acompanhamento ou prato principal."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Arroz,com,legumes?lock=308"
   },
   {
     "id": 309,
@@ -5073,8 +7537,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=309"
   },
   {
     "id": 310,
@@ -5090,8 +7562,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=310"
   },
   {
     "id": 311,
@@ -5107,8 +7587,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=311"
   },
   {
     "id": 312,
@@ -5124,8 +7612,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=312"
   },
   {
     "id": 313,
@@ -5141,8 +7637,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=313"
   },
   {
     "id": 314,
@@ -5158,8 +7662,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=314"
   },
   {
     "id": 315,
@@ -5175,8 +7687,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=315"
   },
   {
     "id": 316,
@@ -5192,8 +7712,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=316"
   },
   {
     "id": 317,
@@ -5209,8 +7737,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=317"
   },
   {
     "id": 318,
@@ -5226,8 +7762,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=318"
   },
   {
     "id": 319,
@@ -5243,8 +7787,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=319"
   },
   {
     "id": 320,
@@ -5260,8 +7812,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=320"
   },
   {
     "id": 321,
@@ -5277,8 +7837,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=321"
   },
   {
     "id": 322,
@@ -5294,8 +7862,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=322"
   },
   {
     "id": 323,
@@ -5311,8 +7887,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=323"
   },
   {
     "id": 324,
@@ -5328,8 +7912,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=324"
   },
   {
     "id": 325,
@@ -5345,8 +7937,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=325"
   },
   {
     "id": 326,
@@ -5362,8 +7962,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=326"
   },
   {
     "id": 327,
@@ -5379,8 +7987,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=327"
   },
   {
     "id": 328,
@@ -5396,8 +8012,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=328"
   },
   {
     "id": 329,
@@ -5413,8 +8037,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=329"
   },
   {
     "id": 330,
@@ -5430,8 +8062,16 @@ const RECIPES = [
       "1/4 de pimentão",
       "sal"
     ],
-    "steps": "Bata os ovos, acrescente os legumes e cozinhe em frigideira até firmar.",
-    "favorite": false
+    "steps": [
+      "Lave e pique os legumes em pedaços pequenos para facilitar o cozimento.",
+      "Quebre os ovos em uma tigela e bata até obter uma mistura uniforme.",
+      "Acrescente os legumes e os temperos e misture delicadamente.",
+      "Aqueça uma frigideira antiaderente em fogo médio e unte levemente.",
+      "Despeje a mistura e cozinhe até a parte inferior firmar e as bordas soltarem.",
+      "Vire ou dobre com cuidado e cozinhe até os ovos estarem completamente firmes. Sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Omelete,de,legumes?lock=330"
   },
   {
     "id": 331,
@@ -5447,8 +8087,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=331"
   },
   {
     "id": 332,
@@ -5464,8 +8112,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=332"
   },
   {
     "id": 333,
@@ -5481,8 +8137,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=333"
   },
   {
     "id": 334,
@@ -5498,8 +8162,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=334"
   },
   {
     "id": 335,
@@ -5515,8 +8187,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=335"
   },
   {
     "id": 336,
@@ -5532,8 +8212,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=336"
   },
   {
     "id": 337,
@@ -5549,8 +8237,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=337"
   },
   {
     "id": 338,
@@ -5566,8 +8262,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=338"
   },
   {
     "id": 339,
@@ -5583,8 +8287,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=339"
   },
   {
     "id": 340,
@@ -5600,8 +8312,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=340"
   },
   {
     "id": 341,
@@ -5617,8 +8337,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=341"
   },
   {
     "id": 342,
@@ -5634,8 +8362,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=342"
   },
   {
     "id": 343,
@@ -5651,8 +8387,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=343"
   },
   {
     "id": 344,
@@ -5668,8 +8412,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=344"
   },
   {
     "id": 345,
@@ -5685,8 +8437,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=345"
   },
   {
     "id": 346,
@@ -5702,8 +8462,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=346"
   },
   {
     "id": 347,
@@ -5719,8 +8487,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=347"
   },
   {
     "id": 348,
@@ -5736,8 +8512,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=348"
   },
   {
     "id": 349,
@@ -5753,8 +8537,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=349"
   },
   {
     "id": 350,
@@ -5770,8 +8562,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=350"
   },
   {
     "id": 351,
@@ -5787,8 +8587,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=351"
   },
   {
     "id": 352,
@@ -5804,8 +8612,16 @@ const RECIPES = [
       "300 g de queijo",
       "200 ml de creme de leite"
     ],
-    "steps": "Monte camadas de molho, massa, frango e queijo. Repita e asse até a massa cozinhar e o queijo gratinar.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 200 °C e deixe o recheio e o molho organizados antes da montagem.",
+      "Cubra o fundo da travessa com uma camada fina de molho para evitar que a massa grude.",
+      "Faça uma camada de massa, seguida de frango e queijo, distribuindo os ingredientes de forma uniforme.",
+      "Repita as camadas até terminar os ingredientes, finalizando com molho e uma boa camada de queijo.",
+      "Cubra a travessa conforme a embalagem da massa orientar e leve ao forno até a massa cozinhar.",
+      "Retire a cobertura nos minutos finais para dourar o queijo. Espere alguns minutos antes de cortar e servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Lasanha,de,frango?lock=352"
   },
   {
     "id": 353,
@@ -5821,8 +8637,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=353"
   },
   {
     "id": 354,
@@ -5838,8 +8662,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=354"
   },
   {
     "id": 355,
@@ -5855,8 +8687,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=355"
   },
   {
     "id": 356,
@@ -5872,8 +8712,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=356"
   },
   {
     "id": 357,
@@ -5889,8 +8737,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=357"
   },
   {
     "id": 358,
@@ -5906,8 +8762,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=358"
   },
   {
     "id": 359,
@@ -5923,8 +8787,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=359"
   },
   {
     "id": 360,
@@ -5940,8 +8812,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=360"
   },
   {
     "id": 361,
@@ -5957,8 +8837,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=361"
   },
   {
     "id": 362,
@@ -5974,8 +8862,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=362"
   },
   {
     "id": 363,
@@ -5991,8 +8887,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=363"
   },
   {
     "id": 364,
@@ -6008,8 +8912,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=364"
   },
   {
     "id": 365,
@@ -6025,8 +8937,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=365"
   },
   {
     "id": 366,
@@ -6042,8 +8962,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=366"
   },
   {
     "id": 367,
@@ -6059,8 +8987,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=367"
   },
   {
     "id": 368,
@@ -6076,8 +9012,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=368"
   },
   {
     "id": 369,
@@ -6093,8 +9037,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=369"
   },
   {
     "id": 370,
@@ -6110,8 +9062,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=370"
   },
   {
     "id": 371,
@@ -6127,8 +9087,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=371"
   },
   {
     "id": 372,
@@ -6144,8 +9112,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=372"
   },
   {
     "id": 373,
@@ -6161,8 +9137,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=373"
   },
   {
     "id": 374,
@@ -6178,8 +9162,16 @@ const RECIPES = [
       "1/2 cebola",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Refogue a cebola, adicione creme e queijo e misture ao macarrão.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Enquanto a massa cozinha, refogue a cebola em uma panela até ficar macia.",
+      "Acrescente o creme e o queijo e mexa em fogo baixo até formar um molho homogêneo.",
+      "Adicione o macarrão cozido ao molho e misture delicadamente para envolver toda a massa.",
+      "Confira a consistência e, se necessário, acrescente um pouco da água do cozimento para ajustar o molho.",
+      "Ajuste o tempero, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,cremoso?lock=374"
   },
   {
     "id": 375,
@@ -6194,8 +9186,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=375"
   },
   {
     "id": 376,
@@ -6210,8 +9210,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=376"
   },
   {
     "id": 377,
@@ -6226,8 +9234,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=377"
   },
   {
     "id": 378,
@@ -6242,8 +9258,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=378"
   },
   {
     "id": 379,
@@ -6258,8 +9282,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=379"
   },
   {
     "id": 380,
@@ -6274,8 +9306,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=380"
   },
   {
     "id": 381,
@@ -6290,8 +9330,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=381"
   },
   {
     "id": 382,
@@ -6306,8 +9354,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=382"
   },
   {
     "id": 383,
@@ -6322,8 +9378,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=383"
   },
   {
     "id": 384,
@@ -6338,8 +9402,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=384"
   },
   {
     "id": 385,
@@ -6354,8 +9426,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=385"
   },
   {
     "id": 386,
@@ -6370,8 +9450,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=386"
   },
   {
     "id": 387,
@@ -6386,8 +9474,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=387"
   },
   {
     "id": 388,
@@ -6402,8 +9498,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=388"
   },
   {
     "id": 389,
@@ -6418,8 +9522,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=389"
   },
   {
     "id": 390,
@@ -6434,8 +9546,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=390"
   },
   {
     "id": 391,
@@ -6450,8 +9570,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=391"
   },
   {
     "id": 392,
@@ -6466,8 +9594,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=392"
   },
   {
     "id": 393,
@@ -6482,8 +9618,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=393"
   },
   {
     "id": 394,
@@ -6498,8 +9642,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=394"
   },
   {
     "id": 395,
@@ -6514,8 +9666,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=395"
   },
   {
     "id": 396,
@@ -6530,8 +9690,16 @@ const RECIPES = [
       "1 xícara de farinha",
       "sal"
     ],
-    "steps": "Cozinhe e amasse as batatas. Misture os demais ingredientes, modele, corte e cozinhe em água fervente.",
-    "favorite": false
+    "steps": [
+      "Cozinhe as batatas até ficarem macias e escorra muito bem para evitar excesso de umidade.",
+      "Amasse as batatas ainda quentes e espere o purê perder um pouco do calor.",
+      "Adicione os demais ingredientes aos poucos e misture apenas até formar uma massa que possa ser modelada.",
+      "Faça rolinhos sobre uma superfície enfarinhada e corte os nhoques em pedaços pequenos.",
+      "Cozinhe os nhoques em água fervente com sal; quando subirem à superfície, retire com uma escumadeira.",
+      "Escorra bem e sirva com o molho ou acompanhamento indicado na receita."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Nhoque,de,batata?lock=396"
   },
   {
     "id": 397,
@@ -6547,8 +9715,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=397"
   },
   {
     "id": 398,
@@ -6564,8 +9740,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=398"
   },
   {
     "id": 399,
@@ -6581,8 +9765,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=399"
   },
   {
     "id": 400,
@@ -6598,8 +9790,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=400"
   },
   {
     "id": 401,
@@ -6615,8 +9815,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=401"
   },
   {
     "id": 402,
@@ -6632,8 +9840,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=402"
   },
   {
     "id": 403,
@@ -6649,8 +9865,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=403"
   },
   {
     "id": 404,
@@ -6666,8 +9890,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=404"
   },
   {
     "id": 405,
@@ -6683,8 +9915,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=405"
   },
   {
     "id": 406,
@@ -6700,8 +9940,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=406"
   },
   {
     "id": 407,
@@ -6717,8 +9965,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=407"
   },
   {
     "id": 408,
@@ -6734,8 +9990,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=408"
   },
   {
     "id": 409,
@@ -6751,8 +10015,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=409"
   },
   {
     "id": 410,
@@ -6768,8 +10040,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=410"
   },
   {
     "id": 411,
@@ -6785,8 +10065,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=411"
   },
   {
     "id": 412,
@@ -6802,8 +10090,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=412"
   },
   {
     "id": 413,
@@ -6819,8 +10115,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=413"
   },
   {
     "id": 414,
@@ -6836,8 +10140,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=414"
   },
   {
     "id": 415,
@@ -6853,8 +10165,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=415"
   },
   {
     "id": 416,
@@ -6870,8 +10190,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=416"
   },
   {
     "id": 417,
@@ -6887,8 +10215,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=417"
   },
   {
     "id": 418,
@@ -6904,8 +10240,16 @@ const RECIPES = [
       "2 dentes de alho",
       "sal"
     ],
-    "steps": "Cozinhe o penne. Refogue alho e cebola, acrescente o molho e misture à massa.",
-    "favorite": false
+    "steps": [
+      "Ferva uma panela grande de água com sal e cozinhe o penne até ficar al dente.",
+      "Enquanto a massa cozinha, aqueça uma panela com um fio de óleo e refogue a cebola.",
+      "Acrescente o alho e mexa por alguns segundos, evitando que ele escureça demais.",
+      "Junte o molho de tomate, misture e deixe cozinhar em fogo baixo para apurar o sabor.",
+      "Escorra o penne e misture ao molho, envolvendo toda a massa.",
+      "Ajuste o tempero, finalize como indicado nos ingredientes e sirva quente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Penne,ao,molho,vermelho?lock=418"
   },
   {
     "id": 419,
@@ -6921,8 +10265,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=419"
   },
   {
     "id": 420,
@@ -6938,8 +10290,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=420"
   },
   {
     "id": 421,
@@ -6955,8 +10315,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=421"
   },
   {
     "id": 422,
@@ -6972,8 +10340,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=422"
   },
   {
     "id": 423,
@@ -6989,8 +10365,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=423"
   },
   {
     "id": 424,
@@ -7006,8 +10390,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=424"
   },
   {
     "id": 425,
@@ -7023,8 +10415,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=425"
   },
   {
     "id": 426,
@@ -7040,8 +10440,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=426"
   },
   {
     "id": 427,
@@ -7057,8 +10465,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=427"
   },
   {
     "id": 428,
@@ -7074,8 +10490,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=428"
   },
   {
     "id": 429,
@@ -7091,8 +10515,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=429"
   },
   {
     "id": 430,
@@ -7108,8 +10540,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=430"
   },
   {
     "id": 431,
@@ -7125,8 +10565,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=431"
   },
   {
     "id": 432,
@@ -7142,8 +10590,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=432"
   },
   {
     "id": 433,
@@ -7159,8 +10615,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=433"
   },
   {
     "id": 434,
@@ -7176,8 +10640,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=434"
   },
   {
     "id": 435,
@@ -7193,8 +10665,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=435"
   },
   {
     "id": 436,
@@ -7210,8 +10690,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=436"
   },
   {
     "id": 437,
@@ -7227,8 +10715,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=437"
   },
   {
     "id": 438,
@@ -7244,8 +10740,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=438"
   },
   {
     "id": 439,
@@ -7261,8 +10765,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=439"
   },
   {
     "id": 440,
@@ -7278,8 +10790,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "sal"
     ],
-    "steps": "Cozinhe o macarrão. Aqueça leite, manteiga e queijo até formar molho e misture.",
-    "favorite": false
+    "steps": [
+      "Cozinhe o macarrão em água fervente com sal até ficar al dente e escorra.",
+      "Em uma panela, aqueça o leite e a manteiga em fogo baixo, sem deixar ferver intensamente.",
+      "Adicione o queijo aos poucos, mexendo até começar a formar um molho cremoso.",
+      "Junte o macarrão cozido e misture delicadamente para cobrir toda a massa.",
+      "Continue aquecendo por pouco tempo, apenas até o molho atingir a consistência desejada.",
+      "Ajuste o sal, desligue o fogo e sirva imediatamente."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Macarr%C3%A3o,com,queijo?lock=440"
   },
   {
     "id": 441,
@@ -7294,8 +10814,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=441"
   },
   {
     "id": 442,
@@ -7310,8 +10838,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=442"
   },
   {
     "id": 443,
@@ -7326,8 +10862,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=443"
   },
   {
     "id": 444,
@@ -7342,8 +10886,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=444"
   },
   {
     "id": 445,
@@ -7358,8 +10910,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=445"
   },
   {
     "id": 446,
@@ -7374,8 +10934,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=446"
   },
   {
     "id": 447,
@@ -7390,8 +10958,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=447"
   },
   {
     "id": 448,
@@ -7406,8 +10982,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=448"
   },
   {
     "id": 449,
@@ -7422,8 +11006,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=449"
   },
   {
     "id": 450,
@@ -7438,8 +11030,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=450"
   },
   {
     "id": 451,
@@ -7454,8 +11054,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=451"
   },
   {
     "id": 452,
@@ -7470,8 +11078,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=452"
   },
   {
     "id": 453,
@@ -7486,8 +11102,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=453"
   },
   {
     "id": 454,
@@ -7502,8 +11126,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=454"
   },
   {
     "id": 455,
@@ -7518,8 +11150,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=455"
   },
   {
     "id": 456,
@@ -7534,8 +11174,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=456"
   },
   {
     "id": 457,
@@ -7550,8 +11198,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=457"
   },
   {
     "id": 458,
@@ -7566,8 +11222,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=458"
   },
   {
     "id": 459,
@@ -7582,8 +11246,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=459"
   },
   {
     "id": 460,
@@ -7598,8 +11270,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=460"
   },
   {
     "id": 461,
@@ -7614,8 +11294,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=461"
   },
   {
     "id": 462,
@@ -7630,8 +11318,16 @@ const RECIPES = [
       "1 colher de manteiga",
       "100 ml de creme de leite"
     ],
-    "steps": "Misture leite condensado, chocolate e manteiga em fogo baixo. Quando engrossar, desligue e misture o creme de leite.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o chocolate e a manteiga em uma panela de fundo grosso.",
+      "Misture os ingredientes ainda com o fogo desligado para distribuir o chocolate.",
+      "Leve ao fogo baixo e mexa continuamente, raspando o fundo e as laterais da panela.",
+      "Continue cozinhando até a mistura engrossar e começar a desgrudar levemente do fundo.",
+      "Desligue o fogo e incorpore o creme de leite, mexendo até ficar liso e brilhante.",
+      "Deixe amornar e sirva de colher ou coloque em pequenos recipientes. Se preferir, leve à geladeira antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Brigadeiro,de,colher?lock=462"
   },
   {
     "id": 463,
@@ -7645,8 +11341,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=463"
   },
   {
     "id": 464,
@@ -7660,8 +11364,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=464"
   },
   {
     "id": 465,
@@ -7675,8 +11387,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=465"
   },
   {
     "id": 466,
@@ -7690,8 +11410,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=466"
   },
   {
     "id": 467,
@@ -7705,8 +11433,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=467"
   },
   {
     "id": 468,
@@ -7720,8 +11456,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=468"
   },
   {
     "id": 469,
@@ -7735,8 +11479,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=469"
   },
   {
     "id": 470,
@@ -7750,8 +11502,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=470"
   },
   {
     "id": 471,
@@ -7765,8 +11525,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=471"
   },
   {
     "id": 472,
@@ -7780,8 +11548,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=472"
   },
   {
     "id": 473,
@@ -7795,8 +11571,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=473"
   },
   {
     "id": 474,
@@ -7810,8 +11594,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=474"
   },
   {
     "id": 475,
@@ -7825,8 +11617,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=475"
   },
   {
     "id": 476,
@@ -7840,8 +11640,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=476"
   },
   {
     "id": 477,
@@ -7855,8 +11663,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=477"
   },
   {
     "id": 478,
@@ -7870,8 +11686,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=478"
   },
   {
     "id": 479,
@@ -7885,8 +11709,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=479"
   },
   {
     "id": 480,
@@ -7900,8 +11732,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=480"
   },
   {
     "id": 481,
@@ -7915,8 +11755,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=481"
   },
   {
     "id": 482,
@@ -7930,8 +11778,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=482"
   },
   {
     "id": 483,
@@ -7945,8 +11801,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=483"
   },
   {
     "id": 484,
@@ -7960,8 +11824,16 @@ const RECIPES = [
       "1 caixa de creme de leite",
       "200 ml de suco concentrado de maracujá"
     ],
-    "steps": "Bata todos os ingredientes no liquidificador e leve à geladeira por pelo menos 2 horas.",
-    "favorite": false
+    "steps": [
+      "Coloque o leite condensado, o creme de leite e o suco concentrado no liquidificador.",
+      "Bata por alguns minutos até a mistura ficar completamente homogênea e cremosa.",
+      "Prove a consistência e, se necessário, bata por mais alguns segundos para incorporar bem os ingredientes.",
+      "Distribua a mousse em uma travessa ou em potes individuais limpos.",
+      "Cubra e leve à geladeira por pelo menos 2 horas, até firmar bem.",
+      "Sirva gelada e mantenha refrigerada até o momento do consumo."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Mousse,de,maracuj%C3%A1?lock=484"
   },
   {
     "id": 485,
@@ -7976,8 +11848,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=485"
   },
   {
     "id": 486,
@@ -7992,8 +11872,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=486"
   },
   {
     "id": 487,
@@ -8008,8 +11896,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=487"
   },
   {
     "id": 488,
@@ -8024,8 +11920,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=488"
   },
   {
     "id": 489,
@@ -8040,8 +11944,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=489"
   },
   {
     "id": 490,
@@ -8056,8 +11968,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=490"
   },
   {
     "id": 491,
@@ -8072,8 +11992,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=491"
   },
   {
     "id": 492,
@@ -8088,8 +12016,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=492"
   },
   {
     "id": 493,
@@ -8104,8 +12040,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=493"
   },
   {
     "id": 494,
@@ -8120,8 +12064,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=494"
   },
   {
     "id": 495,
@@ -8136,8 +12088,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=495"
   },
   {
     "id": 496,
@@ -8152,8 +12112,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=496"
   },
   {
     "id": 497,
@@ -8168,8 +12136,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=497"
   },
   {
     "id": 498,
@@ -8184,8 +12160,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=498"
   },
   {
     "id": 499,
@@ -8200,8 +12184,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=499"
   },
   {
     "id": 500,
@@ -8216,8 +12208,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=500"
   },
   {
     "id": 501,
@@ -8232,8 +12232,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=501"
   },
   {
     "id": 502,
@@ -8248,8 +12256,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=502"
   },
   {
     "id": 503,
@@ -8264,8 +12280,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=503"
   },
   {
     "id": 504,
@@ -8280,8 +12304,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=504"
   },
   {
     "id": 505,
@@ -8296,8 +12328,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=505"
   },
   {
     "id": 506,
@@ -8312,8 +12352,16 @@ const RECIPES = [
       "3 ovos",
       "1 xícara de açúcar"
     ],
-    "steps": "Faça a calda com açúcar. Bata os demais ingredientes, coloque na forma e asse em banho-maria até firmar.",
-    "favorite": false
+    "steps": [
+      "Coloque o açúcar em uma panela ou diretamente na forma própria para pudim e aqueça até formar uma calda dourada.",
+      "Com cuidado, espalhe a calda pelo fundo e pelas laterais da forma.",
+      "Bata o leite condensado, o leite e os ovos até obter uma mistura uniforme, evitando bater em excesso para não criar muita espuma.",
+      "Despeje a mistura na forma caramelizada e cubra conforme o método de banho-maria escolhido.",
+      "Asse em forno preaquecido até o pudim ficar firme nas bordas e levemente tremendo no centro.",
+      "Deixe esfriar completamente, leve à geladeira e desenforme com cuidado antes de servir."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Pudim,simples?lock=506"
   },
   {
     "id": 507,
@@ -8330,8 +12378,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=507"
   },
   {
     "id": 508,
@@ -8348,8 +12404,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=508"
   },
   {
     "id": 509,
@@ -8366,8 +12430,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=509"
   },
   {
     "id": 510,
@@ -8384,8 +12456,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=510"
   },
   {
     "id": 511,
@@ -8402,8 +12482,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=511"
   },
   {
     "id": 512,
@@ -8420,8 +12508,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=512"
   },
   {
     "id": 513,
@@ -8438,8 +12534,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=513"
   },
   {
     "id": 514,
@@ -8456,8 +12560,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=514"
   },
   {
     "id": 515,
@@ -8474,8 +12586,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=515"
   },
   {
     "id": 516,
@@ -8492,8 +12612,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=516"
   },
   {
     "id": 517,
@@ -8510,8 +12638,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=517"
   },
   {
     "id": 518,
@@ -8528,8 +12664,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=518"
   },
   {
     "id": 519,
@@ -8546,8 +12690,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=519"
   },
   {
     "id": 520,
@@ -8564,8 +12716,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=520"
   },
   {
     "id": 521,
@@ -8582,8 +12742,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=521"
   },
   {
     "id": 522,
@@ -8600,8 +12768,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=522"
   },
   {
     "id": 523,
@@ -8618,8 +12794,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=523"
   },
   {
     "id": 524,
@@ -8636,8 +12820,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=524"
   },
   {
     "id": 525,
@@ -8654,8 +12846,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=525"
   },
   {
     "id": 526,
@@ -8672,8 +12872,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=526"
   },
   {
     "id": 527,
@@ -8690,8 +12898,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=527"
   },
   {
     "id": 528,
@@ -8708,8 +12924,16 @@ const RECIPES = [
       "1 xícara de leite",
       "1 colher de fermento"
     ],
-    "steps": "Misture os ingredientes, deixando o fermento por último. Asse em forno preaquecido até passar no teste do palito.",
-    "favorite": false
+    "steps": [
+      "Preaqueça o forno a 180 °C e unte e enfarinhe a forma escolhida.",
+      "Misture a farinha, o açúcar e o chocolate em pó em uma tigela grande.",
+      "Adicione os ovos e o leite e misture até obter uma massa uniforme, sem excesso de grumos.",
+      "Acrescente o fermento por último e misture delicadamente apenas até incorporar.",
+      "Despeje a massa na forma e leve ao forno preaquecido até crescer e passar no teste do palito.",
+      "Retire do forno, espere amornar antes de desenformar e sirva depois de esfriar."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Bolo,de,chocolate?lock=528"
   },
   {
     "id": 529,
@@ -8724,8 +12948,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=529"
   },
   {
     "id": 530,
@@ -8740,8 +12972,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=530"
   },
   {
     "id": 531,
@@ -8756,8 +12996,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=531"
   },
   {
     "id": 532,
@@ -8772,8 +13020,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=532"
   },
   {
     "id": 533,
@@ -8788,8 +13044,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=533"
   },
   {
     "id": 534,
@@ -8804,8 +13068,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=534"
   },
   {
     "id": 535,
@@ -8820,8 +13092,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=535"
   },
   {
     "id": 536,
@@ -8836,8 +13116,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=536"
   },
   {
     "id": 537,
@@ -8852,8 +13140,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=537"
   },
   {
     "id": 538,
@@ -8868,8 +13164,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=538"
   },
   {
     "id": 539,
@@ -8884,8 +13188,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=539"
   },
   {
     "id": 540,
@@ -8900,8 +13212,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=540"
   },
   {
     "id": 541,
@@ -8916,8 +13236,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=541"
   },
   {
     "id": 542,
@@ -8932,8 +13260,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=542"
   },
   {
     "id": 543,
@@ -8948,8 +13284,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=543"
   },
   {
     "id": 544,
@@ -8964,8 +13308,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=544"
   },
   {
     "id": 545,
@@ -8980,8 +13332,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=545"
   },
   {
     "id": 546,
@@ -8996,8 +13356,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=546"
   },
   {
     "id": 547,
@@ -9012,8 +13380,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=547"
   },
   {
     "id": 548,
@@ -9028,8 +13404,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=548"
   },
   {
     "id": 549,
@@ -9044,8 +13428,16 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=549"
   },
   {
     "id": 550,
@@ -9060,7 +13452,15 @@ const RECIPES = [
       "canela a gosto",
       "1 colher de água"
     ],
-    "steps": "Corte as bananas e cozinhe com açúcar, água e canela até formar um doce cremoso.",
-    "favorite": false
+    "steps": [
+      "Descasque as bananas e corte-as em rodelas ou pedaços de tamanho semelhante.",
+      "Coloque as bananas, o açúcar, a água e a canela em uma panela de fundo grosso.",
+      "Leve ao fogo baixo e mexa com cuidado para que as bananas cozinhem sem desmanchar de uma vez.",
+      "Continue cozinhando até a fruta liberar líquido e a mistura começar a engrossar.",
+      "Mexa de tempos em tempos até alcançar uma textura cremosa e a cor ficar mais intensa.",
+      "Desligue o fogo, espere amornar e sirva. Depois de frio, conserve em recipiente fechado e refrigerado."
+    ],
+    "favorite": false,
+    "image": "https://loremflickr.com/800/600/Doce,de,banana?lock=550"
   }
 ];
